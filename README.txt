@@ -62,4 +62,4 @@
     },
 
 ***PLEASE DO NOT RESELL THIS RESOURCE OR CLAIM IT AS YOURS***
-Feel free to ask for a pull request if you feel like and think you can add some useful stuff to this :)
+Feel free to ask for a pull request if you want to help and think you can add some useful stuff to this :)
