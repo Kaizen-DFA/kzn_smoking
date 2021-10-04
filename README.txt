@@ -60,3 +60,6 @@
         imgsrc = "items/opium.png",
         type = "item_standard",
     },
+
+***PLEASE DO NOT RESELL THIS RESOURCE OR CLAIM IT AS YOURS***
+Feel free to ask for a pull request if you feel like and think you can add some useful stuff to this :)
